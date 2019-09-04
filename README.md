@@ -1,3 +1,4 @@
+**Test L'Équipe**
 
 You need to display two sport flows on two pages/tabs: **Dernières vidéos** and **Top videos** by accessing to them via HTTP API <https://raw.githubusercontent.com/pedrocactus/Lequipetest/master/video-flux.json?token=ABABZSZTGRWOAMFQS6HFBLS5N6ZPA>
 
@@ -10,7 +11,5 @@ Each flow item must contain:
 ![Screen](./screen.png)
 
 You must specify **width** and **hight** for the url to be able to download an image. For instance, the following url: <https://medias.lequipe.fr/img-video-cover/1500000000988715/{width}/{height}> must be formatted like this: <https://medias.lequipe.fr/img-video-cover/1500000000988715/320/280> to download an icon with 320x240 resolution.
-
-The json file contains a real sample of L'Équipe video flow: <https://iphdata.lequipe.fr/iPhoneDatas/EFR/STD/ALL/V3/videos.json>. So there are lots of information inside the items. You may ignore it to simplify the application.
 
 Good luck!
