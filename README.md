@@ -1,5 +1,5 @@
 
-You need to display two sport flows on two pages/tabs: **Dernières vidéos** and **Top videos** by accessing to them via HTTP API <https://bitbucket.org/amandychev/lequipe-test/raw/4c23e6fbeb841a7501dfacea2f76e6b1443b201e/video-flux.json>
+You need to display two sport flows on two pages/tabs: **Dernières vidéos** and **Top videos** by accessing to them via HTTP API <https://raw.githubusercontent.com/pedrocactus/Lequipetest/master/video-flux.json?token=ABABZSZTGRWOAMFQS6HFBLS5N6ZPA>
 
 Each flow item must contain:
 
