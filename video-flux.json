@@ -1,0 +1,1661 @@
+{
+    "__type": "flux_videos",
+    "onglets": [
+        {
+            "__type": "onglet_avec_flux",
+            "flux": {
+                "__type": "flux",
+                "items": [
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k1Yu6nWfhnWoDorucYP?autoplay=false",
+                        "lien_web": "/video/k1Yu6nWfhnWoDorucYP",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-23T00:00:00+0200",
+                            "duree": 28,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988715",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988715/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k1Yu6nWfhnWoDorucYP?autoplay=false",
+                            "lien_web": "/video/k1Yu6nWfhnWoDorucYP",
+                            "nombre_de_vues": 6872,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "ICC | Dortmund"
+                                    }
+                                ]
+                            },
+                            "texte": "Christian Pulisic s'est offert un doubl\u00e9 contre Liverpool ce dimanche, dans le cadre de l'International Champions Cup. Apr\u00e8s avoir transform\u00e9 un penalty qu'il avait provoqu\u00e9, l'attaquant am\u00e9ricain du Borussia Dortmund a inscrit un but, \u00e0 une minute de la fin du temps r\u00e9glementaire. Il est aussi \u00e0 l'origine du but de son co\u00e9quipier Jacob Bruun Larsen, quelques minutes plus tard, permettant \u00e0 la formation de Lucien Favre de s'imposer 3 \u00e0 1.",
+                            "titre": "Le but de Pulisic face \u00e0 Liverpool"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#00ADAB",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k7IfnuIawthFiMruch4?autoplay=false",
+                        "lien_web": "/video/k7IfnuIawthFiMruch4",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T00:00:00+0200",
+                            "duree": 40,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988678",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988678/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k7IfnuIawthFiMruch4?autoplay=false",
+                            "lien_web": "/video/k7IfnuIawthFiMruch4",
+                            "nombre_de_vues": 208,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#00ADAB",
+                                "id": "40",
+                                "libelle_url": "Athletisme",
+                                "nom": "Athl\u00e9tisme",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Athl\u00e9"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Ligue de diamant"
+                                    }
+                                ]
+                            },
+                            "texte": "Jenna Prandini a surpris toutes les favorites du 200m dames, ce dimanche lors du meeting Ligue de diamant de Londres. L'Am\u00e9ricaine s'est impos\u00e9e en 22??16, devan\u00e7ant sa compatriote Gabrielle Thomas (22??19) et la Jama\u00efcaine Shericka Jackson (22??22).",
+                            "titre": "Prandini a surpris les favorites"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#00ADAB",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k5kdHCOdgusLxLrubEj?autoplay=false",
+                        "lien_web": "/video/k5kdHCOdgusLxLrubEj",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T00:00:00+0200",
+                            "duree": 362,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988643",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988643/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k5kdHCOdgusLxLrubEj?autoplay=false",
+                            "lien_web": "/video/k5kdHCOdgusLxLrubEj",
+                            "nombre_de_vues": 0,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#00ADAB",
+                                "id": "151",
+                                "libelle_url": "Moto-cross",
+                                "nom": "Moto-cross",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Motocross"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "MXGP (ChM)"
+                                    }
+                                ]
+                            },
+                            "texte": "Retrouvez en vid\u00e9o le r\u00e9sum\u00e9 de la 14e manche du championnat du monde MXGP (Grand Prix de R\u00e9publique tch\u00e8que). Une belle victoire pour le N\u00e9erlandais Jeffrey Herlings (KTM) devant son rival italien Antonio Cairoli (KTM) et le Slov\u00e8ne Tim Gajser (Honda). Un \u00e9v\u00e9nement diffus\u00e9 sur la chaine L'Equipe.",
+                            "titre": "Le r\u00e9sum\u00e9 de la 14e manche"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k6iyPDUHFq2gRZrubhf?autoplay=false",
+                        "lien_web": "/video/k6iyPDUHFq2gRZrubhf",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T00:00:00+0200",
+                            "duree": 29,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988619",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988619/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k6iyPDUHFq2gRZrubhf?autoplay=false",
+                            "lien_web": "/video/k6iyPDUHFq2gRZrubhf",
+                            "nombre_de_vues": 40258,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "ALL"
+                                    }
+                                ]
+                            },
+                            "texte": "\u00c2g\u00e9 de 29 ans, l'international allemand Mesut \u00d6zil a annonc\u00e9 ce dimanche qu'il ne jouerait plus pour la Mannschaft.",
+                            "titre": "\u00d6zil annonce sa retraite internationale"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#00ADAB",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k47io86qMBFuM9ruatp?autoplay=false",
+                        "lien_web": "/video/k47io86qMBFuM9ruatp",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T00:00:00+0200",
+                            "duree": 21,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988589",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988589/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k47io86qMBFuM9ruatp?autoplay=false",
+                            "lien_web": "/video/k47io86qMBFuM9ruatp",
+                            "nombre_de_vues": 5599,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#00ADAB",
+                                "id": "40",
+                                "libelle_url": "Athletisme",
+                                "nom": "Athl\u00e9tisme",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Athl\u00e9"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Ligue de diamant"
+                                    }
+                                ]
+                            },
+                            "texte": "Le K\u00e9nyan Emmanuel Korir s'est impos\u00e9 ce dimanche lors du meeting Ligue de diamant de Londres, en signant la meilleure performance mondiale de la saison sur 800m (1'42''05). C'est \u00e9galement le meilleur chrono de sa carri\u00e8re.",
+                            "titre": "Korir signe la meilleure performance mondiale de l'ann\u00e9e sur 800m"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#00ADAB",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k6nOXNxDRjvEYXru9zf?autoplay=false",
+                        "lien_web": "/video/k6nOXNxDRjvEYXru9zf",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T00:00:00+0200",
+                            "duree": 96,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988578",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988578/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k6nOXNxDRjvEYXru9zf?autoplay=false",
+                            "lien_web": "/video/k6nOXNxDRjvEYXru9zf",
+                            "nombre_de_vues": 756,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#00ADAB",
+                                "id": "2",
+                                "libelle_url": "Voile",
+                                "nom": "Voile",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Voile"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Tour de France"
+                                    }
+                                ]
+                            },
+                            "texte": "L'\u00e9quipage de Quentin Delapierre (Lorina Limonade) a remport\u00e9 le Tour Voile ce dimanche \u00e0 Nice devant Valentin Bellet (2e sur Beijaflore) et Sandro Lacan (3e sur Team R\u00e9seau Ixio).",
+                            "titre": "victoire finale de Quentin Delapierre"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6pt51s?autoplay=false",
+                        "lien_web": "/video/x6pt51s",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T20:58:23+0200",
+                            "duree": 89,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988576",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988576/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6pt51s?autoplay=false",
+                            "lien_web": "/video/x6pt51s",
+                            "nombre_de_vues": 21039,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Transferts"
+                                    }
+                                ]
+                            },
+                            "texte": "VIDEO FOOT sur le plateau de L'Equipe Mercato : \u00abOn a envie de voir Nabil Fekir dans un tr\u00e8s gros club\u00bb",
+                            "titre": "\u00abOn a envie de voir Fekir dans un tr\u00e8s gros club\u00bb"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6pt4y6?autoplay=false",
+                        "lien_web": "/video/x6pt4y6",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T20:56:59+0200",
+                            "duree": 63,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988575",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988575/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6pt4y6?autoplay=false",
+                            "lien_web": "/video/x6pt4y6",
+                            "nombre_de_vues": 482,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Transferts"
+                                    }
+                                ]
+                            },
+                            "texte": "Bayern ou Chelsea, quelle destination pour Martial ?",
+                            "titre": "Bayern ou Chelsea, quelle destination pour Martial ?"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6pt1nr?autoplay=false",
+                        "lien_web": "/video/x6pt1nr",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T20:07:08+0200",
+                            "duree": 107,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988562",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988562/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6pt1nr?autoplay=false",
+                            "lien_web": "/video/x6pt1nr",
+                            "nombre_de_vues": 4871,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "L1 | PSG"
+                                    }
+                                ]
+                            },
+                            "texte": "VIDEO FOOT - \u00abTuchel ? Un entra\u00eeneur qui s'adapte \u00e0 ses adversaires\u00bb",
+                            "titre": "\u00abTuchel ? Un entra\u00eeneur qui s'adapte \u00e0 ses adversaires\u00bb"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6pt0q9?autoplay=false",
+                        "lien_web": "/video/x6pt0q9",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T19:52:40+0200",
+                            "duree": 126,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988553",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988553/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6pt0q9?autoplay=false",
+                            "lien_web": "/video/x6pt0q9",
+                            "nombre_de_vues": 1949,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "PSG | Transferts"
+                                    }
+                                ]
+                            },
+                            "texte": "VIDEO FOOT - Adrien Rabiot, le bon moment pour partir du PSG ?",
+                            "titre": "Rabiot, le bon moment pour partir ?"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    }
+                ],
+                "metas": {
+                    "description": "Le sport en direct sur L'EQUIPE.fr. Les informations, r\u00e9sultats et classements de tous les sports. Directs comment\u00e9s, images et vid\u00e9os \u00e0 regarder et \u00e0 partager !",
+                    "keywords": "sport, foot, match en direct, mercato, football, tennis, F1, golf, rugby, nba",
+                    "label": "Le sport \u00e0 la Une. L'information sportive en temps r\u00e9el avec L'EQUIPE",
+                    "name": "derni\u00e8res vid\u00e9os",
+                    "title": "L'\u00c9QUIPE - L'actualit\u00e9 du sport en continu."
+                },
+                "stat": {
+                    "__type": "stat_arborescence",
+                    "at_vars": {
+                        "basic": {
+                            "chapter1": "general",
+                            "chapter2": "video",
+                            "chapter3": "",
+                            "level2": "22",
+                            "name": "home_videos_dernieres"
+                        },
+                        "custom": {
+                            "13": "",
+                            "14": "",
+                            "16": "",
+                            "17": "divers",
+                            "18": "general",
+                            "19": "",
+                            "21": "",
+                            "22": "",
+                            "23": "",
+                            "26": "",
+                            "27": "",
+                            "28": "home",
+                            "29": "",
+                            "30": ""
+                        }
+                    },
+                    "chapitre": "general",
+                    "indicateurs_application": [
+                        {
+                            "__type": "stat_indicateur",
+                            "custom_var_type": "app",
+                            "id": 17,
+                            "valeur": "divers"
+                        },
+                        {
+                            "__type": "stat_indicateur",
+                            "custom_var_type": "app",
+                            "id": 18,
+                            "valeur": "general"
+                        },
+                        {
+                            "__type": "stat_indicateur",
+                            "custom_var_type": "app",
+                            "id": 28,
+                            "valeur": "home"
+                        }
+                    ],
+                    "niveau2": "22",
+                    "page": "home_videos_dernieres",
+                    "sous_chapitre": "video"
+                }
+            },
+            "titre": "Derni\u00e8res vid\u00e9os"
+        },
+        {
+            "__type": "onglet_avec_flux",
+            "flux": {
+                "__type": "flux",
+                "items": [
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6oz4za?autoplay=false",
+                        "lien_web": "/video/x6oz4za",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-16T22:18:58+0200",
+                            "duree": 270,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000986125",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000986125/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6oz4za?autoplay=false",
+                            "lien_web": "/video/x6oz4za",
+                            "nombre_de_vues": 134961,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "CM 2018 | Bleus"
+                                    }
+                                ]
+                            },
+                            "texte": "VID\u00c9O FOOT - Paul Pogba s'est livr\u00e9 \u00e0 un v\u00e9ritable show dans la cour de l'\u00c9lys\u00e9e apr\u00e8s que l'\u00e9quipe de France ait \u00e9t\u00e9 re\u00e7u par le couple pr\u00e9sidentiel.",
+                            "titre": "Le show de Pogba \u00e0 l'\u00c9lys\u00e9e"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6pq40x?autoplay=false",
+                        "lien_web": "/video/x6pq40x",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-21T00:00:00+0200",
+                            "duree": 88,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988178",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988178/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6pq40x?autoplay=false",
+                            "lien_web": "/video/x6pq40x",
+                            "nombre_de_vues": 88006,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "ICC | PSG"
+                                    }
+                                ]
+                            },
+                            "texte": "Si en premi\u00e8re p\u00e9riode le PSG a rivalis\u00e9 avec le Bayern Munich, ce n'\u00e9tait pas du tout le cas en seconde. Les hommes de Thomas Tuchel se sont inclin\u00e9s (3-1) ce samedi dans le cadre de l'International Champions Cup. Voici un r\u00e9sum\u00e9 en vid\u00e9o de la rencontre.",
+                            "titre": "Le Bayern renverse le PSG"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k3Io3VsF8Ot7ZYrtCiY?autoplay=false",
+                        "lien_web": "/video/k3Io3VsF8Ot7ZYrtCiY",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-21T00:00:00+0200",
+                            "duree": 27,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988262",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988262/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k3Io3VsF8Ot7ZYrtCiY?autoplay=false",
+                            "lien_web": "/video/k3Io3VsF8Ot7ZYrtCiY",
+                            "nombre_de_vues": 80429,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "L1 | PSG"
+                                    }
+                                ]
+                            },
+                            "texte": "Neymar fait part de son affection pour Kylian Mbapp\u00e9 et en profite pour f\u00e9liciter son co\u00e9quipier au PSG, pour sa victoire en finale de la Coupe du monde en Russie.",
+                            "titre": "Neymar \u00abAider Mbapp\u00e9 \u00e0 \u00eatre meilleur\u00bb"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6ppsif?autoplay=false",
+                        "lien_web": "/video/x6ppsif",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-21T00:00:00+0200",
+                            "duree": 27,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988121",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988121/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6ppsif?autoplay=false",
+                            "lien_web": "/video/x6ppsif",
+                            "nombre_de_vues": 70174,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Amical | PSG"
+                                    }
+                                ]
+                            },
+                            "texte": "VIDEO MATCHES AMICAUX - Les Parisiens ont ouvert le score face au Bayern Munich, ce samedi dans le cadre de l'International Champions Cup, gr\u00e2ce \u00e0 un but de Timothy Weah. Il s'agit de la premi\u00e8re r\u00e9alisation de l'Am\u00e9ricain, fils de George Weah, avec l'\u00e9quipe premi\u00e8re du PSG.",
+                            "titre": "Le premier but de T. Weah avec le Paris-SG"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k65NCMfQGZxfSorslUk?autoplay=false",
+                        "lien_web": "/video/k65NCMfQGZxfSorslUk",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-20T00:00:00+0200",
+                            "duree": 18,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000987541",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000987541/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k65NCMfQGZxfSorslUk?autoplay=false",
+                            "lien_web": "/video/k65NCMfQGZxfSorslUk",
+                            "nombre_de_vues": 60673,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "L1 | PSG"
+                                    }
+                                ]
+                            },
+                            "texte": "VIDEO FOOT - L'international br\u00e9silien qui \u00e9volue au PSG, Neymar, a confirm\u00e9 qu'il serait toujours au club la saison prochaine lors d'une interview donn\u00e9e jeudi \u00e0 l'Hotel Unique de Sao Paulo, Br\u00e9sil.",
+                            "titre": "Neymar \u00abJe reste \u00e0 Paris\u00bb"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k1k4Jwmm0qiA3xrsKxB?autoplay=false",
+                        "lien_web": "/video/k1k4Jwmm0qiA3xrsKxB",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-20T21:36:09+0200",
+                            "duree": 192,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000987848",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000987848/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k1k4Jwmm0qiA3xrsKxB?autoplay=false",
+                            "lien_web": "/video/k1k4Jwmm0qiA3xrsKxB",
+                            "nombre_de_vues": 52983,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Euro U19"
+                                    }
+                                ]
+                            },
+                            "texte": "VID\u00c9O FOOT - D\u00e9couvrez en vid\u00e9o les buts de la rencontre de l'Euro U19 entre la France et la Turquie (4-0).",
+                            "titre": "Les buts de la rencontre Turquie-France"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6pgw00?autoplay=false",
+                        "lien_web": "/video/x6pgw00",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-19T18:45:19+0200",
+                            "duree": 210,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000987301",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000987301/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6pgw00?autoplay=false",
+                            "lien_web": "/video/x6pgw00",
+                            "nombre_de_vues": 51001,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Euro (U19)"
+                                    }
+                                ]
+                            },
+                            "texte": "L?\u00e9quipe de France U19 comporte de nombreux joueurs talentueux, \u00e0 diff\u00e9rents postes. En vid\u00e9o, d\u00e9couvrez le profil de six d?entre eux : Boubacar Kamara, Micka\u00ebl Cuisance, Rafik Guitane, Yacine Adli, Myziane Maolida, et Amine Gouiri.",
+                            "titre": "Les p\u00e9pites fran\u00e7aises"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6oykzy?autoplay=false",
+                        "lien_web": "/video/x6oykzy",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-16T19:53:04+0200",
+                            "duree": 202,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000986058",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000986058/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6oykzy?autoplay=false",
+                            "lien_web": "/video/x6oykzy",
+                            "nombre_de_vues": 50723,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "CM 2018"
+                                    }
+                                ]
+                            },
+                            "texte": "VID\u00c9O FOOT - Retrouvez la descente des Champs-\u00c9lys\u00e9es par le car de l'\u00e9quipe de France apr\u00e8s le retour des joueurs en France.",
+                            "titre": "Les Bleus descendent les Champs-\u00c9lys\u00e9es"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/k6iyPDUHFq2gRZrubhf?autoplay=false",
+                        "lien_web": "/video/k6iyPDUHFq2gRZrubhf",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-22T00:00:00+0200",
+                            "duree": 29,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000988619",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000988619/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/k6iyPDUHFq2gRZrubhf?autoplay=false",
+                            "lien_web": "/video/k6iyPDUHFq2gRZrubhf",
+                            "nombre_de_vues": 40258,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "ALL"
+                                    }
+                                ]
+                            },
+                            "texte": "\u00c2g\u00e9 de 29 ans, l'international allemand Mesut \u00d6zil a annonc\u00e9 ce dimanche qu'il ne jouerait plus pour la Mannschaft.",
+                            "titre": "\u00d6zil annonce sa retraite internationale"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    },
+                    {
+                        "__type": "layout_wrapper",
+                        "couleur": "#84AD09",
+                        "layout": "petit_coleader_video",
+                        "lien": "lequipefr://video/x6p6c8f?autoplay=false",
+                        "lien_web": "/video/x6p6c8f",
+                        "objet": {
+                            "__type": "video",
+                            "date_publication": "2018-07-17T00:00:00+0200",
+                            "duree": 188,
+                            "image": {
+                                "__type": "image",
+                                "id": "1500000000986527",
+                                "ratio": 1.5,
+                                "url": "https://medias.lequipe.fr/img-video-cover/1500000000986527/{width}/{height}"
+                            },
+                            "lien": "lequipefr://video/x6p6c8f?autoplay=false",
+                            "lien_web": "/video/x6p6c8f",
+                            "nombre_de_vues": 44305,
+                            "seconde_extraction_vignette": 0,
+                            "sport": {
+                                "__type": "sport",
+                                "couleur": "#84AD09",
+                                "id": "36",
+                                "libelle_url": "Football",
+                                "nom": "Football",
+                                "sur_sport": ""
+                            },
+                            "surtitre": {
+                                "__type": "surtitre",
+                                "elements": [
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": true,
+                                        "biseau_gauche": false,
+                                        "couleur_fond": "#202020",
+                                        "couleur_texte": "#ffffff",
+                                        "libelle": "Foot"
+                                    },
+                                    {
+                                        "__type": "surtitre_item",
+                                        "biseau_droite": false,
+                                        "biseau_gauche": false,
+                                        "couleur_texte": "#909090",
+                                        "libelle": "Euro U19"
+                                    }
+                                ]
+                            },
+                            "texte": "VIDEO FOOT - Retrouvez en vid\u00e9o les temps forts de la d\u00e9fait de l'\u00e9quipe de France U19 face \u00e0 l'Ukraine (1-2) lors de son entr\u00e9e en lice dans l'Euro de la cat\u00e9gorie.",
+                            "titre": "Le r\u00e9sum\u00e9 de France-Ukraine en vid\u00e9o"
+                        },
+                        "options": [
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "picto_place_liste",
+                                    "pictos": [
+                                        {
+                                            "__type": "picto_place",
+                                            "emplacement": "media",
+                                            "url": "lequipefr://resource/image/ico_media_video"
+                                        }
+                                    ]
+                                },
+                                "type": "picto_liste"
+                            },
+                            {
+                                "__type": "layout_option",
+                                "objet": {
+                                    "__type": "couleur",
+                                    "couleur": "#ffffff"
+                                },
+                                "type": "couleur_arriere_plan"
+                            }
+                        ]
+                    }
+                ],
+                "metas": {
+                    "description": "Le sport en direct sur L'EQUIPE.fr. Les informations, r\u00e9sultats et classements de tous les sports. Directs comment\u00e9s, images et vid\u00e9os \u00e0 regarder et \u00e0 partager !",
+                    "keywords": "sport, foot, match en direct, mercato, football, tennis, F1, golf, rugby, nba",
+                    "label": "Le sport \u00e0 la Une. L'information sportive en temps r\u00e9el avec L'EQUIPE",
+                    "name": "top vid\u00e9os",
+                    "title": "L'\u00c9QUIPE - L'actualit\u00e9 du sport en continu."
+                },
+                "stat": {
+                    "__type": "stat_arborescence",
+                    "at_vars": {
+                        "basic": {
+                            "chapter1": "general",
+                            "chapter2": "video",
+                            "chapter3": "",
+                            "level2": "22",
+                            "name": "home_videos_top"
+                        },
+                        "custom": {
+                            "13": "",
+                            "14": "",
+                            "16": "",
+                            "17": "divers",
+                            "18": "general",
+                            "19": "",
+                            "21": "",
+                            "22": "",
+                            "23": "",
+                            "26": "",
+                            "27": "",
+                            "28": "home",
+                            "29": "",
+                            "30": ""
+                        }
+                    },
+                    "chapitre": "general",
+                    "indicateurs_application": [
+                        {
+                            "__type": "stat_indicateur",
+                            "custom_var_type": "app",
+                            "id": 17,
+                            "valeur": "divers"
+                        },
+                        {
+                            "__type": "stat_indicateur",
+                            "custom_var_type": "app",
+                            "id": 18,
+                            "valeur": "general"
+                        },
+                        {
+                            "__type": "stat_indicateur",
+                            "custom_var_type": "app",
+                            "id": 28,
+                            "valeur": "home"
+                        }
+                    ],
+                    "niveau2": "22",
+                    "page": "home_videos_top",
+                    "sous_chapitre": "video"
+                }
+            },
+            "titre": "Top vid\u00e9os"
+        }
+    ]
+}
