@@ -1,6 +1,6 @@
 **Test L'Équipe**
 
-You need to display two sport flows on two pages/tabs: **Dernières vidéos** and **Top videos** by accessing to them via HTTP API <https://raw.githubusercontent.com/pedrocactus/Lequipetest/master/video-flux.json?token=ABABZS42BCSP5ZNY3YBKNWS5N62TG>
+You need to display two sport flows on two pages/tabs: **Dernières vidéos** and **Top videos** by accessing to them via HTTP API <https://raw.githubusercontent.com/pedrocactus/Lequipetest/master/video-flux.json>
 
 Each flow item must contain:
 
